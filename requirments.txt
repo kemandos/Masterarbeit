@@ -1,0 +1,16 @@
+Python 3.9.7	
+IPython	7.29.0
+jupyter_client 	7.0.6
+jupyter_core 	04.09.2001
+jupyterlab	03.02.2001
+notebook	06.04.2006
+numpy	  1.20.3
+pandas	 1.3.4
+session_info	1.0.0
+bs4	    4.9.3
+requests	2.27.1
+tqdm	   4.64.0
+skillNer	
+spacy	  3.3.0
+spacy	 3.3.0
+tqdm	 4.64.0

@@ -1,0 +1,53 @@
+Abgeschlossenes Studium mit quantitativem Schwerpunkt (z. B. Mathematik, Statistik, Physik, Informatik) und Erfahrung im Bereich Datenanalyse (u. a. Machine Learning, Natural Language Processing)
+Sicherer Umgang mit einer Programmiersprache (z. B. C++, Java, PHP, Python, Ruby) und/oder einem Datenbanksystem (z. B. SQL, SAS, MongoDB)
+Idealerweise erste praktische Erfahrungen (Praktikum oder Werkstudierendentätigkeit)
+Teamplayer:in mit Engagement und hohem Verantwortungsbewusstsein sowie Interesse an komplexen betriebswirtschaftlichen Zusammenhängen
+Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch
+
+Durch Modellierung umfangreicher und heterogener Daten sind Sie in der Lage, Muster und Zusammenhänge in Daten zu erkennen und daraus Aussagen und Handlungsempfehlungen abzuleiten.
+Um das gewonnene Wissen sowie die Erkenntnisse aus der Datenanalyse auch gezielt nutzen zu können, wollen Sie die Daten nicht nur sammeln und auswerten, sondern auch mithilfe von Dashboards und Präsentationen visualisieren und so den Entscheidungsträgern zugänglich machen.
+Für einen laufenden Betrieb erarbeiten Sie zudem einen ETL-Prozess und entwickeln einen Automatismus, der die Daten in regelmäßigen Abständen in die Datenbank einspeist und analysiert, um so die stetige Weiterentwicklung und Automatisierung der Controlling-Prozesse voranzutreiben.
+Dabei sind Sie an der Überführung des Piloten in ein Standardreporting oder Dashboard in SAP BW/HANA, SAP Analytics Cloud oder anderen BI-Tools maßgeblich beteiligt.
+Darüber hinaus unterstützen Sie beim Aufbau eines Data Lake zur Anbindung neuer, unstrukturierter Datenquellen als Basis für Advanced Analytics und Machine Learning Lösungen
+Mit Ihrem Know-how entwickeln Sie unser internes Controllingsystem insgesamt stetig weiter und behalten bei allen unseren Prozessen unsere Qualitäts-Standards im Auge.
+Ihr Studium der Mathematik, Informatik, Wirtschaftsinformatik, Betriebswirtschaft oder vergleichbarer Studiengänge (Uni/FH) mit Schwerpunkt Controlling, Statistik, Datenmanagement oder Data Analytics haben Sie erfolgreich abgeschlossen.
+Sie haben bereits Berufserfahrung als Controller, Data Analyst oder im Bereich Business Intelligence gesammelt.
+Dabei haben Sie fundierte Kenntnisse in der Datenmodellierung, Datenvisualisierung und der Entwicklung von Datenbanktechnologien aufgebaut.
+In dem Daten-Dschungel behalten Sie mit den gängigen Programmiersprachen für statistische Analysen, wie Python, R, Java oder SQL, jederzeit den Überblick.
+Predictive Analytics, Machine Learning oder Data Mining sind für Sie nicht nur Buzzwords, sondern Methoden und Werkzeuge, um strukturierte Problemlösung zu betreiben.
+Sie lieben es sich in Zahlen auszudrücken sowie statistische Analysen und Business Modellierungen aufzustellen. In Excel sind sie Profi in Bezug auf Datenmodellierung und Sie kennen gängige BI Anwendungen, sowie ERP Systeme.
+Das Erstellen, Pflegen und Optimieren von ETL-Strecken (z.B. Visual Studio / SSIS Theobald) ist Ihnen nicht fremd.
+Sie besitzen fließende Deutsch- und Englischkenntnisse.
+
+Sie haben ein abgeschlossenes Studium als (Wirtschafts-) Informatiker:in oder eine gleichwertige Qualifikation
+Sie bringen bereits Berufserfahrung in den relevanten Aufgabengebieten mit
+Erfahrungen im Projektmanagement und Prozessaffinität sind vorhanden
+Fundierte Kenntnisse in MS-Office, insb. Excel (VBA), Datenbankmanagementsystemen / SQL sowie MS Power BI
+Teamfähigkeit, gute organisatorische und kommunikative Fähigkeiten runden Ihr Profil ab
+Vertrauen Sie auf die Sicherheit und Zuverlässigkeit eines großen kommunalen Arbeitgebers, eine attraktive und faire Vergütung und den Komfort einer betrieblichen Altersversorgung.
+Ihre Aufgabe ist für die Zukunft unserer Region von Bedeutung. Dafür ziehen wir alle an einem Strang und nutzen die Stärken des gesamten Teams.
+Rechnen Sie mit kollegialer Unterstützung, Duz-Kultur und Menschen, die den konstruktiven Austausch mit Ihnen suchen.
+Passen Sie Ihren Beruf Ihrem Leben an, denn mit unseren flexiblen Arbeitszeitmodellen bestimmen Sie den Rhythmus Ihres beruflichen Alltags selbst. Auch Ihr Nachwuchs liegt uns am Herzen: Bei unseren „Stadtwerke Minis“ werden sich Ihre Liebsten garantiert wohlfühlen.
+Entwickeln Sie sich bei uns: Kontinuierlich und regelmäßig nehmen wir die persönliche und fachliche Entwicklung in den Blick. So erreichen Sie mit uns Ihre Ziele.
+Nutzen Sie unser umfangreiches Paket zur Gesundheitsförderung: Dabei sind Firmenfitness (Hansefit/ Qualitrain), diverse Präventionsprogramme und Beratungsangebote nur Auszüge, denn Gesundheit steckt bei uns in jedem Arbeitsplatz.
+Genießen Sie den vergünstigten Bezug von Strom und Wasser oder die Möglichkeiten zur mobilen Arbeit
+Du besitzt ein ausgezeichnet abgeschlossenes Studium in Data Science, (Wirtschafts-)Informatik, (Wirtschafts-)Mathematik, Statistik, Ökonometrie – alternativ überzeugst du mit einem vergleichbaren Studium
+Deine sehr guten Kenntnisse in der Datenaufbereitung, dem Aufsetzen von ETL-Prozessen, der Datenanalyse und -visualisierung mit Python bzw. PySpark und SQL sind bei uns gefragt
+Du kennst dich mit cloudbasierter Infrastruktur und Cloud Computing aus, idealerweise mit Microsoft Azure - Erste Erfahrungen mit Cloud-Services wie Databricks oder der Azure Data Factory hast du idealerweise bereits gesammelt
+Dich zeichnet deine Leidenschaft für Data Science aus und du bringst eine hohe Motivation mit, um gemeinsam im Team die datengetriebenen Prozesse voranzubringen
+Sehr gute verhandlungssichere Deutschkenntnisse sowie gute Englischkenntnisse runden neben deiner Lernbereitschaft dein Profil ab 
+Du verfügst über ein abgeschlossenes informationstechnisches Studium oder eine vergleichbare Ausbildung? Du hast bereits tiefgreifende Fähigkeiten im Bereich Data Warehousing und Analyse? Du interessierst Dich für das Online Business, BI- und Big Data-Technologie? Du siehst Dich in den unten genannten Punkten beschrieben? Dann freuen wir uns auf Deine Bewerbung.
+Du zeichnest Dich durch mehrjährige Berufserfahrung im Bereich Data Warehousing, Reporting und Analytics aus.
+Du beherrschst die SQL Server Plattform, insbesondere SSIS und kennst Dich mit Tableau als Reporting Tools aus.
+Die Nutzung von SQL gehört für Dich zum Arbeitsalltag.
+
+Du hast Erfahrung in der Programmierung und in der Nutzung von Versionsverwaltungssystemen.
+Idealerweise hast Du Erfahrung in Hadoop und Impala.
+Du zeichnest Dich durch eine hohe Eigeninitiative aus und lernst gerne Neues.
+Du bist teamfähig, kannst mit Stakeholdern souverän kommunizieren und verfügst über sehr gute Deutsch- und gute Englischkenntnisse.
+Abgeschlossenes Studium (Wirtschafts-) Informatik oder vergleichbare Studiengänge
+Erfahrung in relevanten Programmiersprachen wie z.B. Scala, Java oder Python und in der Entwicklung von ETL Prozessen
+Kenntnisse in Hadoop Ecosystem (HDFS, Kudu, Hive, Impala, Solr, Spark, Kafka)
+Erfahrung im Aufbau von Datenstrukturen (z.B. Data Lake, Data Warehouse)
+Sehr gute Deutsch - und Englischkenntnisse
+Ihre Stärken: Teamfähigkeit, analytische sowie strukturierte Arbeitsweise
