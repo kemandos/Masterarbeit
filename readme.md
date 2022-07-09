@@ -148,8 +148,6 @@ So liegen die prozentuellen Anteile für die Anforderungsgruppe – Visualisieru
 
 ### 4.1 Klassifikationsanalyse
 
-![image](https://user-images.githubusercontent.com/77071620/178105609-494406c0-75e3-461c-8c59-8eb7163edbd9.png)
-
 Als Referenz für die Klassifikationsanalyse wurde ein Artikel und Code von dem ehemaligen Indeed Mitarbeiter – Vincent Musgrove verwendet. Vincent stellte die gleiche Frage bezüglich der Unterscheidung verschiedener Berufe bei den amerikanischen Unternehmen und ob diese Unterscheidungen aus den Daten abgeleitet werden können. In seinem GitHub Repository stelle ein Jupyter Notebook zur Verfügung, mit dem Code für die Klassifikationsanalyse und den Ergebnissen seiner Analyse.
 
 ![image](https://user-images.githubusercontent.com/77071620/178105656-ddca227e-183a-40e5-b75a-68c6e01fb9b9.png)
