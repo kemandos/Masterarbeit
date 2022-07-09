@@ -37,6 +37,9 @@ Die  Daten wurden mit Hilfe der Python-Bibliothek pandas analysiert. Zunächst w
  - Die Top 3 Branchen, wo die meisten Spezialisten gesucht werden, stellen keine große Überraschung dar. Beratungsunternehmen suchen nach Mitarbeitern, um die Digitalisierung des Kundenunternehmens voranzubringen. IT-Unternehmen brauchen zwingend Datenspezialisten, da deren Geschäftsmodell meistens auf den Daten basiert. Retail ist einer der wenigen Branchen, welche ‚data-driven‘ Ansatz verfolgen, um den Einkauf, Logistik, Marketing etc. zu verbessern.
  - Der durchschnittliche Gehalt für alle analysierten Berufe, unabhängig von Ort, Erfahrungsstufe und Branche liegt bei ca. 73 Tausend Euro. 
 ### 3.1. Anallyse der Anforderungen
+
+#### 3.1.1 Abschlüsse
+
 Wie man aus der Abbildung entnehmen kann, wird bei 61 % (1416 Einträge) aller Stellenanzeigen (2311 Einträge) ein Abschluss vorausgesetzt. In 43 % der Fälle (1257 Einträge) setzen die Unternehmen einen Bachelor-Abschluss voraus, gefolgt von Master-Abschluss mit 349 Einträge (15%). Einige Unternehmen verlangen in 4 % der Fälle (82 Einträge) sogar einen Doktor-Abschluss.
 
 Bei den Studiengängen steht Informatik mit 1257 Einträgen (54 %) an erster Stelle, gefolgt von Mathematik mit 31 % (717 Einträge), Statistik mit 21 % (479 Einträge) und Wirtschaftsinformatik mit 16 % (364 Einträge). Die Wirtschaftsstudiengänge mit einem Anteil von 11 % (251 Einträge) bei VWL und BWL mit 8 % (188) sind eher in der Unterzahl. Somit suchen die Unternehmen für eine Tätigkeit in der Datenumfeld, meistens einen Kanditen mit Bachelor-Abschluss in einem der MINT-Fächer. Was auf die benötigten Kenntnisse zurückführt, welche in dem nächsten Abschnitt analysiert werden.
@@ -52,4 +55,23 @@ Traineships sind beliebt bei jungen Absolventen mit fachfremden Abschlüssen. In
 Als BootCamp wird die Form einer intensiven Militärausbildung in USA bezeichnet. Aufgrund des Erfolges von diesen Trainingsformat wurde es für die Ausbildung von IT-Kenntnisse adaptiert. Dank der Intensivität der Ausbildung werden innerhalb von 3 Monaten nur die notwendigsten und wichtigsten Aspekte der Programmierung erlernt, um das Niveau eines einsatzbereiten Arbeitnehmers zu erreichen. Da die Studenten während ihres Studiums an realen Projekten arbeiten, ist das erworbene Wissen auch wichtig und aktuell. In Deutschland besteht die Möglichkeit der Finanzierung der Ausbildung in einem Coding Bootcamps durch die Agentur für Arbeit oder JobCenter.
 
 <img width="1359" alt="Bildschirmfoto 2022-07-09 um 13 24 57" src="https://user-images.githubusercontent.com/77071620/178103574-7c7f20db-b82a-4d85-b7ce-3407e413c70a.png">
+
+#### Technologien
+
+<img width="1357" alt="Bildschirmfoto 2022-07-09 um 13 31 33" src="https://user-images.githubusercontent.com/77071620/178103771-baddb995-b0c7-481e-b041-309654b9321b.png">
+
+Angeführt wird die Liste mit 40 % (930 Erwähnungen) von Git. 
+
+Git ist eine freie Software für Versionsverwaltung von Code. Dadurch, dass die vier Berufsgruppen bis auf den Business Analysten, viel mit Programmierung zu tun haben, muss der geschriebene Code ordnungsgemäß verwaltet und versionisiert werden. Git ist zurzeit die beste Lösung dafür. 
+
+Allgemein ist die Gruppe Technologien sehr Data Engineering lastig und wie in der Abbildung 6 zu sehen ist, bildet diese den Schwerpunkt des Berufes ab. Kenntnisse in dem Umgang mit den Datenbanken mit 35 % (803 Erwähnungen) sind plausibel, da die Menschen viel mit den Datenbanken arbeiten, weil dort die Daten gespeichert sind. 
+
+Microsoft Excel ist an dieser Stelle eher als ein Ausreißer zu betrachten da diese Technologie eher zu den Kenntnissen von Business Analysten gehört. Der Rest der Anforderungen ist wie bereits erwähnt, sehr Data Engineering lastig und wird von vielen Data Engineers verlangt, um mit Big Data zu arbeiten.
+
+#### Plattformen
+
+<img width="1356" alt="Bildschirmfoto 2022-07-09 um 13 33 15" src="https://user-images.githubusercontent.com/77071620/178103809-56f83417-9abe-4f48-bade-64ae73bfe952.png">
+
+Derzeit steigen viele Unternehmen von lokalen Lösungen, welche auf eigenen Servern laufen auf die Cloud-Lösungen um. Die bekanntesten Plattformen in Deutschland werden durch die 3 große Spieler auf dem Cloud-Markt: Azure von Microsoft, AWS von Amazon und Google Cloud repräsentiert. 
+
 
