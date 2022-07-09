@@ -74,7 +74,13 @@ Microsoft Excel ist an dieser Stelle eher als ein Ausreißer zu betrachten da di
 
 Derzeit steigen viele Unternehmen von lokalen Lösungen, welche auf eigenen Servern laufen auf die Cloud-Lösungen um. Die bekanntesten Plattformen in Deutschland werden durch die 3 große Spieler auf dem Cloud-Markt: Azure von Microsoft, AWS von Amazon und Google Cloud repräsentiert.
 
-#### 3.1.4 Visualisierung
+#### 3.1.5 Programmiersprachen
+
+<img width="1359" alt="Bildschirmfoto 2022-07-09 um 14 08 41" src="https://user-images.githubusercontent.com/77071620/178105051-7df4697f-dafa-4fe2-b3e5-73bbc680e372.png">
+
+SQL mit einem Anteil von 50 % (1145 Ergebnisse) sowie Python mit 48 % (1102 Ergebnisse) sind nach wie vor die beliebtesten Sprachen, wenn es um datengetriebene Berufsfelder geht. Sogar HTML und Javascript stellen keine Ausreißer dar, weil diese von Web-Analysten für die Erstellung von Analysen verwendet werden. Java mit 15 % (353 Ergebnisse) wird immer noch benötigt. Dies ist zurückzuführen auf die Verwendung bestimmter Technologien oder Plattformen wie beispielsweise Talend oder Databricks. Diese sind entweder mit Java programmiert oder bieten Java als Programmiersprache für die Analyse an.
+
+#### 3.1.5 Visualisierung
 
 Die Visualisierung von Daten ist ein wichtiger Prozess, welches in einfacher Form die Grundlagen für die Entscheidungen liefert. Diese können entweder Strategieentscheidungen für das Unternehmen sein oder die Bewertung einer Machine Learning Pipeline.
 
