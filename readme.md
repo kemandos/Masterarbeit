@@ -120,7 +120,7 @@ Außerdem werden in den Ergebnissen Lean-Management mit 6 % (148 Einträge), Lea
 Scrum gehört zu der agilen Methode und ist fokussiert auf der Effizienzsteigerung und Fehlerreduzierung. Somit kann man sagen, dass die datengetriebenen Berufe sowie die Softwareentwickler nach agilen Methoden arbeiten, meisten in 3-4 Teams. Die Aufgaben werden in kleine Arbeitspakete verteilt und in Sprints abgearbeitet, was zu einer Fehlerreduzierung führt und die Effizienz steigert.
 
 
-#### 3.1.8 Soft-Skills
+#### 3.1.9 Soft-Skills
 
 <img width="1359" alt="Bildschirmfoto 2022-07-09 um 14 14 54" src="https://user-images.githubusercontent.com/77071620/178105411-576cccb2-42d2-4653-813e-5963c1fc89ef.png">
 
