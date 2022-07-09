@@ -5,6 +5,15 @@
 
 Gegenstand der hier vorgestellten Masterarbeit ist die Analyse von Stellensauschreibungen hinsichtlich des Anforderungsprofils für datengetriebene Berufsfelder. Um den Rahmen der vorliegenden Meisterarbeit nicht zu sprängen, erfolgte die Konzentration auf die nachfolgenden vier Berufsfelder: Business Analyst, Data Analyst, Data Engineer und Data Scientist. Es wurde eine empirische Untersuchung von Stellenanzeigen über alle Hierarchiestufen, Branchen und deutsche Bundesländer durchgeführt. Ziel dabei war Anhand von entwickelten Anforderungsprofil für jede Berufsgruppe, die Stellenanzeigen zu analysieren und die benötigten Fachkenntnisse, Abschlüsse, Hard- und Softskills herauszufinden.
 
+#### 1.1 Anforderungsprofil -  Schwerpunkte
+
+![image](https://user-images.githubusercontent.com/77071620/178105461-440dd6e4-20d1-4814-9059-dd753b415033.png)
+
+#### 1.2 Anforderungsprofil -  Data
+
+![image](https://user-images.githubusercontent.com/77071620/178105491-8f69ad62-69b8-4b99-999c-fabb185c2adf.png)
+
+
 ## 2. Vorgehensweise
 
 ### 2.1 Datenbeschaffung
@@ -126,3 +135,59 @@ Scrum gehört zu der agilen Methode und ist fokussiert auf der Effizienzsteigeru
 
 Hier werden von Kandidaten in erster Linie gute Kommunikationsfähigkeiten (43%) in Wort- und Schrift, Teamarbeit (10 %) und analytisches Denken (7%) verlangt. Die Fähigkeiten Probleme zu lösen, Entscheidungen zu treffen und Ergebnisse zu präsentieren, spielen auch eine wichtige Rolle. Der Grund für diese Anforderungen ist, dass Menschen, die mit den Daten Arbeit bis auf Data Engineer ständig im Austausch mit anderen Personen stehen. Sie müssen ihre Gedanken, Schritte und Ergebnisse in einer guten, verständlichen Art und Weise den anderen Menschen rüberbringen. Außerdem müssen die Menschen analytisch denken können, um Probleme und Herausforderung, welche ständig auftauchen werden, schnell und effektiv lösen zu können.
 
+
+## 4 Analyse der Anforderung im Hinblick auf einzelne Berufe
+Bei dieser Analyse konnte schnell festgestellt werden, dass die Anforderungen an verschiedene Berufe prozentuell sich wenig bis gar nicht unterscheiden.
+Diese Feststellung basiert aus den Ergebnissen von den Dashboards ‚Skill Category‘ und ‚Analysis of the roles‘.
+
+So liegen die prozentuellen Anteile für die Anforderungsgruppe – Visualisierungen für Data Engineers, fast auf dem gleichen Niveau wie bei Business Analysten, Data Analysten oder Data Scientist. In meiner mittlerweile 7-jährigen beruflichen Praxis habe ich jedoch noch nie einen Data Engineer erlebt welcher Daten mit PowerBI oder einer ähnlichen Software visualisiert hat. 
+
+Ähnliche Erkenntnisse sind auch bei der Anforderungsgruppe – Programmiersprachen festzustellen. Es ist nicht die Aufgabe eines Business Analysten, Code mit Python oder Java zu schreiben. Ein Business Anlayst beschäftig sich mit den geschäftlichen Daten welche in einer Datenbank von dem Data Engineer oder eventuell Data Analyst zur Verfügung gestellt worden. Daher sind Erfahrungen mit SQL sinnvoll. 
+
+![image](https://user-images.githubusercontent.com/77071620/178105546-3541b308-628f-4a8a-82b3-b99379b7eae8.png)
+
+### 4.1 Klassifikationsanalyse
+
+![image](https://user-images.githubusercontent.com/77071620/178105609-494406c0-75e3-461c-8c59-8eb7163edbd9.png)
+
+Als Referenz für die Klassifikationsanalyse wurde ein Artikel und Code von dem ehemaligen Indeed Mitarbeiter – Vincent Musgrove verwendet. Vincent stellte die gleiche Frage bezüglich der Unterscheidung verschiedener Berufe bei den amerikanischen Unternehmen und ob diese Unterscheidungen aus den Daten abgeleitet werden können. In seinem GitHub Repository stelle ein Jupyter Notebook zur Verfügung, mit dem Code für die Klassifikationsanalyse und den Ergebnissen seiner Analyse.
+
+![image](https://user-images.githubusercontent.com/77071620/178105656-ddca227e-183a-40e5-b75a-68c6e01fb9b9.png)
+
+Wie in der Abbildung  zu erkennen ist, enthält der von Vincent Musgrove verwendete Datensatz (links) nicht die gleichen Berufsbezeichnungen wie der Datensatz dieser Masterarbeit (rechts). Jedoch werden für die Masterarbeit relevante Berufe durch Data Scientist, Data Engineer, Business Intelligence (eigentlich Data Analyst) sowie Data Analyst vertreten. Auf der linken Grafik ist deutlich zu erkennen, dass die Berufe Data Scientist, Data Engineer sowie Business Intelligence zwar schwache, jedoch sichtbare Cluster bilden. Die Punkte welche den Beruf - Data Analyst repräsentieren sind deutlich zerstreut, was wiederum dafürspricht, dass dieser Beruf eher generalistisch ist. 
+
+Bei der Anwendung der gleichen Klassifikationsanalyse auf das in dieser Arbeit verwendete Datensatz, konnte festgestellt werden, dass es keinerlei Cluster gebildet werden konnten. Die Punkte, welche verschiedene Berufe repräsentieren sind wild zerstreut, so dass kein Muster erkannt werden kann.
+
+Einen weiteren Beleg für die oben aufgeführte These liefert die manuelle, stichprobenartige Analyse der Stellenanzeigen für Data Science.
+
+### 4.2 Manuelle Prüfung
+
+Bei der Stichprobenartigen Überprüfen der Data Science Stellenanzeigen konnte festgestellt werden, dass in den meisten Fällen sogar bei großen Unternehmen eine Uneinigkeit darüber herrscht, bezugnehmen der Aufgaben von einem Data Scientist. Wenn Zeiss eher einen Machine Learning Engineer sucht, so erwartet die Deutsch Bahn, dass ein Data Scientist die Aufgaben eines System Administrators und Data Engineers übernimmt.
+
+![image](https://user-images.githubusercontent.com/77071620/178105698-53725abb-06ac-4905-b107-f944b25d5e94.png)
+
+
+## 5 Fazit
+
+Diese Arbeit verfolgte das Ziel anhand eines Anforderungsprofils die Stellenanzeigen für die oben genannte Berufe zu analysieren. Die Aufgabe bestand darin, herauszufinden welche Erfahrungen, Kenntnisse und Fähigkeiten von Kandidaten verlangt werden.
+
+Im Hinblick auf die Forschungsfrage wurden Stellenanzeigen aus verschiedenen Stellenportalen extrahiert, bereinigt und anschließend analysiert.  
+Anhand der Analyse von Stellenbeschreibungen für alle Berufe konnte festgestellt werden, dass ein Hochschulabschluss nur in 61 % Prozent der analysierten Stellenanzeigen verlangt bzw. erwähnt wird. Dabei ist in ca. 70 % der Fälle ein Bachelor-Abschluss ausreichend. Die am häufigsten erwähnte Studiengänge sind Informatik (54 %), Mathematik (31 %), Statistik (21 %) und Wirtschaftsinformatik (16 %). Jedoch sind auch andere, nicht IT-nahe Studiengänge wie z. B. VWL (11 %) und BWL (8 %) in der Auswertung vorhanden.
+
+Die Menschen, die sich für die Berufe interessieren müssen in der Lage sein zu programmieren und die Daten zu visualisieren. 
+Bei den Programmiersprachen stehen mit besonders hohen Anteilen die Programmiersprachen Python und SQL. Zusammengezählt werden diese fast in 100 % aller Stellen (2311) erwähnt. 
+
+Um die Daten visuell darzustellen, werden Kenntnisse in gängigen Visualisierungs-Tools wie Microsoft PowerBI und Tableau benötigt.
+Außerdem müssen sich Kandidaten mit einer großen Anzahl von Technologien und Plattformen auskennen. Durch die Verlagerung der Prozesse in die Cloud sind Erfahrungen mit Azure, AWS, Google Cloud, Snowflake und Databricks besonders beliebt. Darüber hinaus sind Kenntnisse in folgenden Technologien bei der Arbeit mit Daten sehr vorteilhaft: Git, Datenbanken, Docker, ETL, Hadoop, Airflow und natürlich Microsoft Excel. 
+
+Aufgrund von vielen Berührungspunkten mit verschieden Fachabteilungen müssen die Kandidaten sehr kommunikativ und lösungsorientiert sein sowie über analytisches Denkvermögen und Präsentationsfähigkeit verfügen.
+
+Die tägliche Arbeit wird meisten in Projekten abgewickelt, deshalb sind Erfahrungen mit den agilen Projektmanagementmethoden sehr hilfreich. Dazu kommt ein hoher Grad der Internationalisierung und dementsprechend benötigte Kenntnisse der englischen Sprache.
+
+Zudem wurde in der Analyse festgestellt, dass die Anforderungen der Unternehmen an einzelne Berufe, in diesem Datensatz, sich nicht unterscheiden. Durch die Anwendung eines Klassifikationsmodel auf den Datensatz, konnte ermittelt werden, dass die Anforderungen an verschiedene Berufe keine Cluster bilden. Was für ein geringes Verständnis der Aufgabengebiete einzelner Berufe spricht.
+
+Abgesehen von dem allgemeinen Verständnis über die Anforderungen an datengetriebene Berufsfelder, liefern die Ergebnisse der Analyse nützliche Erkenntnisse für Unternehmen sowie Bildungseinrichtungen. 
+
+- Unternehmen können die Erkenntnisse aus der Analyse nutzen, um maßgeschneiderte, berufsbezogene Stellenbeschreibungen zu erstellen. Zumindest dort wo es möglich ist.
+
+- Die Bildungseinrichtungen (Hochschulen und Universitäten) können die Ergebnisse verwenden, um die Entwicklung von in der Zukunft benötigten Fähigkeiten und Kompetenzen, unabhängig von Studienschwerpunkt, bei Studierenden zu fördern und den Fokus ihrer Ausbildung praxisnaher und digitaler gestalten.
