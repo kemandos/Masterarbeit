@@ -3,7 +3,7 @@
 
 ## 1. Einleitung
 
-Ziel der Arbeit ist es, ein Profil der Anforderungen an Kandidaten für datengetriebene Berufsfelder zu erstellen. Dazu werden Stellenausschreibungen ausgewertet und die Anforderungen an Kandidaten identifiziert.
+Gegenstand der hier vorgestellten Masterarbeit ist die Analyse von Stellensauschreibungen hinsichtlich des Anforderungsprofils für datengetriebene Berufsfelder. Um den Rahmen der vorliegenden Meisterarbeit nicht zu sprängen, erfolgte die Konzentration auf die nachfolgenden vier Berufsfelder: Business Analyst, Data Analyst, Data Engineer und Data Scientist. Es wurde eine empirische Untersuchung von Stellenanzeigen über alle Hierarchiestufen, Branchen und deutsche Bundesländer durchgeführt. Ziel dabei war Anhand von entwickelten Anforderungsprofil für jede Berufsgruppe, die Stellenanzeigen zu analysieren und die benötigten Fachkenntnisse, Abschlüsse, Hard- und Softskills herauszufinden.
 
 ## 2. Vorgehensweise
 
@@ -56,7 +56,7 @@ Als BootCamp wird die Form einer intensiven Militärausbildung in USA bezeichnet
 
 <img width="1359" alt="Bildschirmfoto 2022-07-09 um 13 24 57" src="https://user-images.githubusercontent.com/77071620/178103574-7c7f20db-b82a-4d85-b7ce-3407e413c70a.png">
 
-#### Technologien
+#### 3.1.2 Technologien
 
 <img width="1357" alt="Bildschirmfoto 2022-07-09 um 13 31 33" src="https://user-images.githubusercontent.com/77071620/178103771-baddb995-b0c7-481e-b041-309654b9321b.png">
 
@@ -68,10 +68,29 @@ Allgemein ist die Gruppe Technologien sehr Data Engineering lastig und wie in de
 
 Microsoft Excel ist an dieser Stelle eher als ein Ausreißer zu betrachten da diese Technologie eher zu den Kenntnissen von Business Analysten gehört. Der Rest der Anforderungen ist wie bereits erwähnt, sehr Data Engineering lastig und wird von vielen Data Engineers verlangt, um mit Big Data zu arbeiten.
 
-#### Plattformen
+#### 3.1.3 Plattformen
 
 <img width="1356" alt="Bildschirmfoto 2022-07-09 um 13 33 15" src="https://user-images.githubusercontent.com/77071620/178103809-56f83417-9abe-4f48-bade-64ae73bfe952.png">
 
-Derzeit steigen viele Unternehmen von lokalen Lösungen, welche auf eigenen Servern laufen auf die Cloud-Lösungen um. Die bekanntesten Plattformen in Deutschland werden durch die 3 große Spieler auf dem Cloud-Markt: Azure von Microsoft, AWS von Amazon und Google Cloud repräsentiert. 
+Derzeit steigen viele Unternehmen von lokalen Lösungen, welche auf eigenen Servern laufen auf die Cloud-Lösungen um. Die bekanntesten Plattformen in Deutschland werden durch die 3 große Spieler auf dem Cloud-Markt: Azure von Microsoft, AWS von Amazon und Google Cloud repräsentiert.
+
+#### 3.1.4 Visualisierung
+
+Die Visualisierung von Daten ist ein wichtiger Prozess, welches in einfacher Form die Grundlagen für die Entscheidungen liefert. Diese können entweder Strategieentscheidungen für das Unternehmen sein oder die Bewertung einer Machine Learning Pipeline.
+
+Der Markt für die die Business Intelligence Tools ist seit langer Zeit aufgeilt in:
+ - kommerzielle Software - Tableau, PowerBI, Qlik und Google Data Studio 
+ - Open-Source - Dash, Superset, Matplotlib etc.
+
+Open-Source Software oder Bibliotheken für die Visualisierung werden von wenigen Unternehmen eingesetzt. Diese sind schwierig zu konfigurieren oder setzen gewisse Kenntnisse in der Programmierung vor. 
+
+Kommerzielle Software bietet dagegen Einfachheit und Design an, was vielen Nutzern bei Open-Source Lösungen gefehlt hat und deshalb bevorzugt wird.
+
+Wie aus der Abbildung  klar wird, enthalten 27 % (627 Einträge) nicht spezifizierte Erwähnungen über Datenvisualiserungen. Dagegen werden bei 17 % der Stellenanzeigen (386) Kenntnisse mit PowerBI verlangt, bei 15 % (358 Einträge) Dash und bei 12 % (287 Einträge) Tableau. Das PowerBI an erster Stelle steht ist auch wenig überraschend, da Microsoft die Software innerhalb des Bundles von Office 365 zur Verfügung stellt und somit über die typische Massenstrategie von Microsoft an die hohe Nutzerzahlen kommt. Der Rivale Tableau dagegen, kostet um einiges Mehr und wird meistens von großen Unternehmen eingesetzt.
+
+<img width="1361" alt="Bildschirmfoto 2022-07-09 um 13 35 08" src="https://user-images.githubusercontent.com/77071620/178103927-477a8bfa-7a7b-4571-8c0c-af8b3f3a5add.png">
+
+
+
 
 
