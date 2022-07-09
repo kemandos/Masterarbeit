@@ -136,7 +136,7 @@ Scrum gehört zu der agilen Methode und ist fokussiert auf der Effizienzsteigeru
 Hier werden von Kandidaten in erster Linie gute Kommunikationsfähigkeiten (43%) in Wort- und Schrift, Teamarbeit (10 %) und analytisches Denken (7%) verlangt. Die Fähigkeiten Probleme zu lösen, Entscheidungen zu treffen und Ergebnisse zu präsentieren, spielen auch eine wichtige Rolle. Der Grund für diese Anforderungen ist, dass Menschen, die mit den Daten Arbeit bis auf Data Engineer ständig im Austausch mit anderen Personen stehen. Sie müssen ihre Gedanken, Schritte und Ergebnisse in einer guten, verständlichen Art und Weise den anderen Menschen rüberbringen. Außerdem müssen die Menschen analytisch denken können, um Probleme und Herausforderung, welche ständig auftauchen werden, schnell und effektiv lösen zu können.
 
 
-## 4 Analyse der Anforderung im Hinblick auf einzelne Berufe
+## 4 Analyse der Anforderungen im Hinblick auf einzelne Berufe
 Bei dieser Analyse konnte schnell festgestellt werden, dass die Anforderungen an verschiedene Berufe prozentuell sich wenig bis gar nicht unterscheiden.
 Diese Feststellung basiert aus den Ergebnissen von den Dashboards ‚Skill Category‘ und ‚Analysis of the roles‘.
 
