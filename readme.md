@@ -3,7 +3,10 @@
 
 ## 1. Einleitung
 
-Gegenstand der hier vorgestellten Masterarbeit ist die Analyse von Stellensauschreibungen hinsichtlich des Anforderungsprofils für datengetriebene Berufsfelder. Um den Rahmen der vorliegenden Meisterarbeit nicht zu sprängen, erfolgte die Konzentration auf die nachfolgenden vier Berufsfelder: Business Analyst, Data Analyst, Data Engineer und Data Scientist. Es wurde eine empirische Untersuchung von Stellenanzeigen über alle Hierarchiestufen, Branchen und deutsche Bundesländer durchgeführt. Ziel dabei war Anhand von entwickelten Anforderungsprofil für jede Berufsgruppe, die Stellenanzeigen zu analysieren und die benötigten Fachkenntnisse, Abschlüsse, Hard- und Softskills herauszufinden.
+Die vorliegende Arbeit verfolgt das Ziel, ein Anforderungsprofil für datengetrie-bene Berufsfelder zu entwickeln und diesbezüglich eine empirische Analyse von Stellenausschreibungen durchzuführen. Dabei wird der Fokus der Arbeit auf die vier Berufsgruppen Business-Analyst, Data-Analyst, Data-Engineer sowie Data-Scientist gelegt. 
+
+Anhand der Analyse soll die Forschungsfrage beantwortet werden, welche Anforderungen die Unternehmen an die Bewerber in ihren Stellenanzeigen für datengetriebene Berufsfelder stellen und welche Fähigkeiten, Abschlüsse und Kenntnisse von potenziellen Mitarbeitern verlangt werden. 
+
 
 #### 1.1 Anforderungsprofil -  Schwerpunkte
 
@@ -18,7 +21,7 @@ Gegenstand der hier vorgestellten Masterarbeit ist die Analyse von Stellensausch
 
 ### 2.1 Datenbeschaffung
 
-Die Daten wurden aus dem Angebot verschiedener Job Portale entnommen. Die Suche wurde auf die Berufsfelder "Data Scientist, Data Analyst, Data Engineer und Business Analyst" eingeschränkt. Insgesamt wurden 3097 Stellenausschreibungen gefunden und heruntergeladen. Nach manueller Prüfung und Enfernung der Duplikate, blieben insgesamt 2311 Stellenauschreibungen.
+Die Daten wurden aus dem Angebot verschiedener Job Portale entnommen. Die Suche wurde auf die Berufsfelder Data-Scientist, Data-Analyst, Data-Engineer und Business- Analyst eingeschränkt. Insgesamt wurden 3097 Stellenausschreibungen gefunden und heruntergeladen. Nach manueller Prüfung und Enfernung der Duplikate, blieben insgesamt 2311 Stellenauschreibungen.
 
 ### 2.2 Datenaufbereitung
 
@@ -37,14 +40,14 @@ Die  Daten wurden mit Hilfe der Python-Bibliothek pandas analysiert. Zunächst w
 
 #### Ungefiltert liefert das Dashboard folgende Ergebnisse:
 
- - Bei der graphischen Darstellung der Daten wird es deutlich, dass von 2311 einzigartigen Stellen, welche in dem Datensatz vorhanden sind, die meistgesuchte Berufsbezeichnung mit 938 Ergebnissen - Data Analyst ist. Die Interpretation der Ergebnisse lässt vermuteten, dass viele Unternehmen – Generalisten suchen, die von allen ein wenig können.
- - Die Ergebnisse der Analyse von Erfahrungsstufen zeigt, dass nur geringer Anteil an Junior Stellen verfügbar ist und meistens Menschen mit einer Berufserfahrung gesucht werden. Dieser Sachverhalt besteht bei allen Berufsbezeichnungen.
- - In West- und Süd-Deutschland werden die meisten Daten Spezialisten gesucht. Der Osten wird durch Berlin repräsentiert und der Norden durch Hamburg.
- - Die Top 3 Orte nach Anzahl der Stellenausschreibungen sind Berlin, München und Hamburg
- - Der Anteil an remote Stellen mit 6,53 % ist ziemlich klein. Was auf eine Konservativität der deutschen Unternehmen zurückzuführen ist.
- - Manche Stellenanzeigen befinden sich außerhalb von Deutschland, wurden jedoch auf einem deutschen Stellenportal veröffentlicht
- - Die Top 3 Branchen, wo die meisten Spezialisten gesucht werden, stellen keine große Überraschung dar. Beratungsunternehmen suchen nach Mitarbeitern, um die Digitalisierung des Kundenunternehmens voranzubringen. IT-Unternehmen brauchen zwingend Datenspezialisten, da deren Geschäftsmodell meistens auf den Daten basiert. Retail ist einer der wenigen Branchen, welche ‚data-driven‘ Ansatz verfolgen, um den Einkauf, Logistik, Marketing etc. zu verbessern.
- - Der durchschnittliche Gehalt für alle analysierten Berufe, unabhängig von Ort, Erfahrungsstufe und Branche liegt bei ca. 73 Tausend Euro. 
+ - Bei der grafischen Darstellung der Daten wird deutlich, dass von 2311 einzigartigen Stellen, die in dem Datensatz vorhanden sind, die meist-gesuchte Berufsbezeichnung mit 938 Ergebnissen Data-Analyst ist. Die Interpretation der Ergebnisse lässt vermuten, dass viele Unternehmen Generalisten suchen, die von allen ein wenig können.
+ - Die Ergebnisse der Analyse von Erfahrungsstufen zeigt, dass nur ein geringer Anteil an Junior-Stellen verfügbar ist und meistens Menschen mit Berufserfahrung gesucht werden. Dieser Sachverhalt besteht bei al-len Berufsbezeichnungen.
+ - In West- und Süd-Deutschland werden die meisten Datenfachleute ge-sucht. Der Osten wird durch Berlin repräsentiert und der Norden durch Hamburg.
+ - Die Top-3-Orte nach Anzahl der Stellenausschreibungen sind Berlin, München und Hamburg.
+ - Der Anteil an Remote-Stellen mit 6,53 % ist ziemlich klein, was auf eine Konservativität der deutschen Unternehmen zurückzuführen ist.
+ - Manche Stellenanzeigen befinden sich außerhalb von Deutschland, wurden jedoch auf einem deutschen Stellenportal veröffentlicht.
+ - Die Top-3-Branchen, in denen die meisten Fachleute gesucht werden, entsprechen den Erwartungen. Beratungsunternehmen suchen nach Mitarbeitenden, um die Digitalisierung des Kundenunternehmens vo-ranzubringen. IT-Unternehmen brauchen zwingend Datenspezialisten, da deren Geschäftsmodell meistens auf den Daten basiert. Retail ist ei-ne der wenigen Branchen, die einen ‚data-driven‘ Ansatz verfolgen, um den Einkauf, die Logistik, das Marketing etc. zu verbessern.
+ - Das durchschnittliche Gehalt für alle analysierten Berufe, unabhängig von Ort, Erfahrungsstufe und Branche, liegt bei ca. 73.000 Euro brutto pro Jahr.  
 ### 3.1. Anallyse der Anforderungen
 
 #### 3.1.1 Abschlüsse
