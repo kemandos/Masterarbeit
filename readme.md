@@ -40,7 +40,7 @@ Zunächst wurden die Anforderungen an Kandidaten in verschiedene Kategorien eing
 
 #### Ungefiltert liefert das Dashboard folgende Ergebnisse:
 
- - Bei der grafischen Darstellung der Daten wird deutlich, dass von 2311 einzigartigen Stellen, die in dem Datensatz vorhanden sind, die meist-gesuchte Berufsbezeichnung mit 938 Ergebnissen Data-Analyst ist. Die Interpretation der Ergebnisse lässt vermuten, dass viele Unternehmen Generalisten suchen, die von allen ein wenig können.
+ - Bei der grafischen Darstellung der Daten wird deutlich, dass von 2311 einzigartigen Stellen, die in dem Datensatz vorhanden sind, die meistgesuchte Berufsbezeichnung mit 938 Ergebnissen Data-Analyst ist. Die Interpretation der Ergebnisse lässt vermuten, dass viele Unternehmen Generalisten suchen, die von allen ein wenig können.
  - Die Ergebnisse der Analyse von Erfahrungsstufen zeigt, dass nur ein geringer Anteil an Junior-Stellen verfügbar ist und meistens Menschen mit Berufserfahrung gesucht werden. Dieser Sachverhalt besteht bei al-len Berufsbezeichnungen.
  - In West- und Süd-Deutschland werden die meisten Datenfachleute ge-sucht. Der Osten wird durch Berlin repräsentiert und der Norden durch Hamburg.
  - Die Top-3-Orte nach Anzahl der Stellenausschreibungen sind Berlin, München und Hamburg.
